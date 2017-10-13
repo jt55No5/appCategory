@@ -29,4 +29,11 @@ public class DevController {
 			return "devlogin";
 		}
 	}
+	
+	/**
+	 * 删除
+	 */
+	public void del(){
+		
+	}
 }
