@@ -12,7 +12,7 @@ import service.DevUserService;
 import entity.DevUser;
 
 @Controller
-@RequestMapping("dev")
+@RequestMapping("dev1")
 public class DevController {
 	@Autowired
 	private DevUserService devUserService;
