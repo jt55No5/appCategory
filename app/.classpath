@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="src/aspectjweaver-1.6.9.jar"/>
+	<classpathentry kind="lib" path="src/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="src/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="src/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="src/fastjson-1.2.13.jar"/>
+	<classpathentry kind="lib" path="src/jstl.jar"/>
+	<classpathentry kind="lib" path="src/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="src/mybatis-3.2.2.jar"/>
+	<classpathentry kind="lib" path="src/mybatis-spring-1.2.0.jar"/>
+	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.0-bin.jar"/>
+	<classpathentry kind="lib" path="src/spring-aop-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-aspects-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-beans-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-context-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-context-support-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-core-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-expression-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-jdbc-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-tx-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-web-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/spring-webmvc-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="src/standard.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
